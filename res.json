@@ -1,0 +1,257 @@
+[
+    {
+        "Nombre": "Avalos Sanchez Brian",
+        "Materias": [
+            "Base de Datos",
+            "Matemticas IV",
+            "Programacin I",
+            "Desarrollo Web",
+            "Contabilidad",
+            "Inteligencia Artificial"
+        ]
+    },
+    {
+        "Nombre": "Avalos Torres Arnold",
+        "Materias": [
+            "Inteligencia Artificial",
+            "Desarrollo Web",
+            "Base de Datos",
+            "Matematicas discretas",
+            "Fundamenrtos de programacin"
+        ]
+    },
+    {
+        "Nombre": "Alvarez Flores Hector",
+        "Materias": [
+            "Desarrollo Web",
+            "Programacin I",
+            "Base de Datos"
+        ]
+    },
+    {
+        "Nombre": "Bautista Mejia Carlos Israel",
+        "Materias": [
+            "Base de Datos",
+            "Matemticas IV",
+            "Desarrollo Web",
+            "Contabilidad"
+        ]
+    },
+    {
+        "Nombre": "Galvez Maravilla Alejandro",
+        "Materias": [
+            "Inteligencia Artificial",
+            "Matemticas IV",
+            "Programacin I",
+            "Desarrollo Web",
+            "Base de Datos"
+        ]
+    },
+    {
+        "Nombre": "Guerrero Estrada Jose Fernando",
+        "Materias": [
+            "Contabilidad",
+            "Desarrollo Web",
+            "Base de Datos",
+            "Matemticas IV",
+            "Inteligencia Artificial"
+        ]
+    },
+    {
+        "Nombre": "Hernandez Silva Alexis Martin",
+        "Materias": [
+            "Estructura de datos",
+            "Programacion Python",
+            "Diseo web con React",
+            "Microservicios",
+            "Computo en la nube"
+        ]
+    },
+    {
+        "Nombre": "Jaramillo Moreno Juan Antonio",
+        "Materias": [
+            "Diseo web con React",
+            "Inteligencia Artificial",
+            "Programacion Python",
+            "Programacin I",
+            "Contabilidad"
+        ]
+    },
+    {
+        "Nombre": "Lopez Campos Alfredo",
+        "Materias": [
+            "Programacion Python",
+            "Diseo web con React",
+            "Estructura de datos",
+            "Matemticas IV"
+        ]
+    },
+    {
+        "Nombre": "Magallon Romero Francisco Javier",
+        "Materias": [
+            "Programacin I",
+            "Contabilidad",
+            "Diseo web con React",
+            "Inteligencia Artificial",
+            "Programacion Python",
+            "Matemticas IV"
+        ]
+    },
+    {
+        "Nombre": "Manzo Avalos Diego",
+        "Materias": [
+            "Computo en la nube",
+            "Estructura de datos",
+            "Inteligencia Artificial",
+            "Programacin I",
+            "Matemticas IV"
+        ]
+    },
+    {
+        "Nombre": "Mendoza Quiroz Carlos Armando",
+        "Materias": [
+            "Diseo web con React",
+            "Estructura de datos",
+            "Programacion Python",
+            "Inteligencia Artificial",
+            "Contabilidad"
+        ]
+    },
+    {
+        "Nombre": "Moreno Maravilla Mois\u00e9s",
+        "Materias": [
+            "Inteligencia Artificial",
+            "Diseo web con React",
+            "Estructura de datos",
+            "Contabilidad"
+        ]
+    },
+    {
+        "Nombre": "Morgado Marquez Jesus",
+        "Materias": [
+            "Estructura de datos",
+            "Inteligencia Artificial",
+            "Programacin I",
+            "Matemticas IV",
+            "Programacin I",
+            "Computo en la nube"
+        ]
+    },
+    {
+        "Nombre": "Navarrete Garibay Juan Jose",
+        "Materias": [
+            "Computo en la nube",
+            "Inteligencia Artificial",
+            "Contabilidad Financiera",
+            "Finanzas"
+        ]
+    },
+    {
+        "Nombre": "Ochoa Canela Joaquin Jairo",
+        "Materias": [
+            "Analisis y diseo de sistemas de informacion",
+            "Programacion orientadada objetos",
+            "Microservicios",
+            "Base de datos distribuidas",
+            "Diseo UX y UI"
+        ]
+    },
+    {
+        "Nombre": "Rocha Torres Isaac",
+        "Materias": [
+            "Inteligencia Artificial",
+            "Analisis y diseo de sistemas de informacion",
+            "Programacion orientadada objetos",
+            "Microservicios",
+            "Contabilidad Financiera",
+            "Diseo UX y UI"
+        ]
+    },
+    {
+        "Nombre": "Sanchez Zamora Carlos Omar",
+        "Materias": [
+            "Programacion orientadada objetos",
+            "Inteligencia Artificial",
+            "Microservicios"
+        ]
+    },
+    {
+        "Nombre": "S\u00e1nchez Herrera Isaias",
+        "Materias": [
+            "Inteligencia Artificial",
+            "Diseo UX y UI",
+            "Base de datos distribuidas",
+            "Programacion orientadada objetos",
+            "Analisis y diseo de sistemas de informacion"
+        ]
+    },
+    {
+        "Nombre": "Vega Hernandez Eileen Gizelle",
+        "Materias": [
+            "Contabilidad Financiera",
+            "Microservicios",
+            "Diseo UX y UI",
+            "Base de datos distribuidas",
+            "Finanzas",
+            "Matemticas IV"
+        ]
+    },
+    {
+        "Nombre": "Zaragoza Anaya Jesus",
+        "Materias": [
+            "Analisis y diseo de sistemas de informacion",
+            "Base de datos distribuidas",
+            "Microservicios",
+            "Diseo UX y UI",
+            "Matemticas IV"
+        ]
+    },
+    {
+        "Nombre": "Ochoa Cendejas Victor",
+        "Materias": [
+            "Contabilidad Financiera",
+            "Matemticas IV",
+            "Diseo UX y UI",
+            "Finanzas",
+            "Analisis y diseo de sistemas de informacion"
+        ]
+    },
+    {
+        "Nombre": "Ceja Sanchez Ignacio Daniel",
+        "Materias": []
+    },
+    {
+        "Nombre": "Rodriguez Medina Armando",
+        "Materias": [
+            "Diseo UX y UI",
+            "Microservicios",
+            "Analisis y diseo de sistemas de informacion",
+            "Contabilidad Financiera",
+            "Finanzas internacionales IV",
+            "Algoritmos inteligentes"
+        ]
+    },
+    {
+        "Nombre": "S\u00e1nchez Ibarra Francisco Isaac",
+        "Materias": [
+            "Algoritmos inteligentes",
+            "Finanzas internacionales IV",
+            "Contabilidad Financiera",
+            "Diseo UX y UI",
+            "Microservicios",
+            "Base de datos distribuidas"
+        ]
+    },
+    {
+        "Nombre": "Valdovinos Ochoa Montserrat",
+        "Materias": [
+            "Finanzas internacionales IV",
+            "Contabilidad Financiera",
+            "Algoritmos inteligentes",
+            "Base de datos distribuidas",
+            "Diseo UX y UI",
+            "Microservicios",
+            "Analisis y diseo de sistemas de informacion"
+        ]
+    }
+]
